@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<body>
+  <SQLScript TreeKey="FUN" TreeName="Funkcje">Function</SQLScript>
+  <SQLScript TreeKey="PROC" TreeName="Procedury">Proc;Procedure</SQLScript>
+  <SQLScript TreeKey="VIEW" TreeName="Wglądy">View</SQLScript>
+  <SQLScript TreeKey="TABLE" TreeName="Tabele">Table</SQLScript>
+  <MissObject TreeKey="VIEW">v_TT000</MissObject>
+  <MissObject TreeKey="TABLE">MD000</MissObject>
+  <MissObject TreeKey="TABLE">TT000</MissObject>
+</body>

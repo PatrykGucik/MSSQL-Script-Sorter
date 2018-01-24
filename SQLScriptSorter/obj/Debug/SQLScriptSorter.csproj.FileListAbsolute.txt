@@ -1,0 +1,63 @@
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Form1.resources
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+c:\users\patrykgucik\documents\visual studio 2017\Projects\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
+D:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+D:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+D:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+D:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+D:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Form1.resources
+D:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+D:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+D:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+D:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
+G:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+G:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+G:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+G:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+G:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Form1.resources
+G:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+G:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+G:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+G:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
+F:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+F:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+F:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
+F:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+F:\SQLScriptSorter\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+F:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+F:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+F:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+F:\SQLScriptSorter\SQLScriptSorter\obj\Debug\SQLScriptSorter.MainForm.resources
+F:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+F:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+F:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+F:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+F:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+F:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.MainForm.resources
+F:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+F:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+F:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
+G:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+G:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+G:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+G:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+G:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.MainForm.resources
+G:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+G:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+G:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+G:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
+D:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe.config
+D:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.exe
+D:\Projekty VS\SQLScriptSorter\bin\Debug\SQLScriptSorter.pdb
+D:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.csprojResolveAssemblyReference.cache
+D:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.MainForm.resources
+D:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.Properties.Resources.resources
+D:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.csproj.GenerateResource.Cache
+D:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.exe
+D:\Projekty VS\SQLScriptSorter\obj\Debug\SQLScriptSorter.pdb
